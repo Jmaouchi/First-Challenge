@@ -1,5 +1,4 @@
-##Website Challenge 
+# Website Challenge 
 
-#Coding languages used 
+Website to cover HTML5 and CSS
 
-HTML5 and CSS 
