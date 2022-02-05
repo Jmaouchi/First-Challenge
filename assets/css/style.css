@@ -13,6 +13,7 @@ body {
   background-color: #d9dcd6;
 }
 
+
 /* header style starts */
 .header {
   padding: 20px;
@@ -102,12 +103,12 @@ p {
   background-color: #2589bd;
 }
 
-.benefits-heading {
+.benefit-heading {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefits-content{
+.benefit-content{
   margin-bottom: 32px;
   color: var(--color-white);
 }
